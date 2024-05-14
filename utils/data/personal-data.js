@@ -1,0 +1,15 @@
+export const personalData = {
+    name: "RICLIN Kevin",
+    profile: '/profile.png',
+    designation: "Etudiant",
+    description: "Je m'appelle Riclin Kevin et je suis étudiant en deuxième année à Epitech Strasbourg. Je suis passionné par la programmation et je cherche constamment à approfondir mes connaissances. J'aime explorer de nouvelles technologies et résoudre des problèmes.",
+    email: 'kevin.riclin@epitech.eu',
+    phone: '+06 28 .. .. ..',
+    address: 'Strasbourg',
+    github: 'https://github.com/said7388',
+    facebook: 'https://www.facebook.com/',
+    linkedIn: 'https://www.linkedin.com/',
+    twitter: 'https://twitter.com/',
+    stackOverflow: 'https://stackoverflow.com/',
+    devUsername: "Lustilax",
+}
